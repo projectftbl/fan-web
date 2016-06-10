@@ -1,10 +1,10 @@
 {
-  "CLIENT": "https://signup.liveforfootball.com"
-, "HOST": "https://api.liveforfootball.com"
+  "CLIENT": "http://signup.liveforfootball.com"
+, "HOST": "http://core-service-production.herokuapp.com"
 , "DEFAULT_PAGE": "/member/connect"
 , "HTTP": {
     "AUTHENTICATE": "ftbl/ftbl"
-  , "SECURE": true
+  , "SECURE": false
   }
 , "FACEBOOK": {
     "ID": "1080273218682225"
