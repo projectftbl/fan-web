@@ -27,5 +27,5 @@
     "HOST": "logs4.papertrailapp.com"
   , "PORT": 50028
   }
-, "LICENSE": "1.02"
+, "LICENSE": "1.03"
 }
